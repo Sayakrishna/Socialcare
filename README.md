@@ -10,10 +10,10 @@ SocialCare is a mobile and web-based humanitarian support platform designed to c
 The system helps users submit and track requests, enables volunteers to respond to verified requests, and provides administrators with tools to monitor and coordinate the overall system. It also includes disease prediction and priority-based request management.
 
 ##🎯 Objectives
-Identify and track real-time needs and emergencies.
-Prioritize user requests.
-Connect individuals, NGOs, donors, and volunteers through one platform.
-Support transparent, timely, and accountable aid delivery.
+-Identify and track real-time needs and emergencies.
+-Prioritize user requests.
+-Connect individuals, NGOs, donors, and volunteers through one platform.
+-Support transparent, timely, and accountable aid delivery.
 
 ##👥 Modules
 
