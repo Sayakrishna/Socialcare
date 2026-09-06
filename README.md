@@ -64,3 +64,21 @@ Manage the overall platform
 ##Disease Prediction
 The system includes a disease-prediction feature based on user-provided symptoms. The project documentation specifies Random Forest for disease prediction.
 
+##Screenshots
+
+###login screen
+![login screen](screenshots/login.jpeg)
+
+###user registration
+![user registration](screenshots/User.jpeg)
+
+###disease prediction
+![disease prediction](screenshots/diseaseprediction.jpeg)
+
+
+###volunteer regiistration
+![volunteer regiistration](screenshots/volunteer.jpeg)
+
+
+###welcome screen
+![welcome screen](screenshots/loginpage.jpeg)
